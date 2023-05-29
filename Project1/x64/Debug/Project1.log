@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\vs2022\2.0\Project1\Project1\源.cpp(6,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\vs2022\2.0\Project1\Project1\x64\Debug\Project1.exe
